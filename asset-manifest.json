@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/price-list-template/static/css/main.5df7d988.chunk.css",
+    "main.js": "/price-list-template/static/js/main.d3cd0eb4.chunk.js",
+    "main.js.map": "/price-list-template/static/js/main.d3cd0eb4.chunk.js.map",
+    "runtime-main.js": "/price-list-template/static/js/runtime-main.d2000de3.js",
+    "runtime-main.js.map": "/price-list-template/static/js/runtime-main.d2000de3.js.map",
+    "static/js/2.a44d56d5.chunk.js": "/price-list-template/static/js/2.a44d56d5.chunk.js",
+    "static/js/2.a44d56d5.chunk.js.map": "/price-list-template/static/js/2.a44d56d5.chunk.js.map",
+    "index.html": "/price-list-template/index.html",
+    "precache-manifest.dd3e79564ba05f6059560ed2e9317b3a.js": "/price-list-template/precache-manifest.dd3e79564ba05f6059560ed2e9317b3a.js",
+    "service-worker.js": "/price-list-template/service-worker.js",
+    "static/css/main.5df7d988.chunk.css.map": "/price-list-template/static/css/main.5df7d988.chunk.css.map",
+    "static/js/2.a44d56d5.chunk.js.LICENSE.txt": "/price-list-template/static/js/2.a44d56d5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/price-list-template/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2000de3.js",
+    "static/js/2.a44d56d5.chunk.js",
+    "static/css/main.5df7d988.chunk.css",
+    "static/js/main.d3cd0eb4.chunk.js"
+  ]
+}
